@@ -1,2 +1,2 @@
 # TinyRailsComposer
-A little too to manage your resource from the game TinyRails.
+A little tool to manage your resource from the game TinyRails.
